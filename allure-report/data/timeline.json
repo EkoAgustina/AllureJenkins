@@ -1,0 +1,904 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-T3FFUFN",
+    "children" : [ {
+      "name" : "12924@DESKTOP-T3FFUFN.main(1)",
+      "children" : [ {
+        "name" : "User adds product to cart",
+        "uid" : "1c226bf42352a3df",
+        "parentUid" : "1a0e6e524d2ac6843ce06be0694eabf7",
+        "status" : "broken",
+        "time" : {
+          "start" : 1648392889811,
+          "stop" : 1648392893314,
+          "duration" : 3503
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User logs in with a valid account",
+        "uid" : "cacfba694021c5f6",
+        "parentUid" : "1a0e6e524d2ac6843ce06be0694eabf7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1648392879529,
+          "stop" : 1648392889351,
+          "duration" : 9822
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1a0e6e524d2ac6843ce06be0694eabf7"
+    }, {
+      "name" : "18784@DESKTOP-T3FFUFN.main(1)",
+      "children" : [ {
+        "name" : "User adds product to cart",
+        "uid" : "7c09639250300160",
+        "parentUid" : "f2511529136ef305174ae39d559f21e8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649332970944,
+          "stop" : 1649332971536,
+          "duration" : 592
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User logs in with a valid account",
+        "uid" : "919c85dd3b2635da",
+        "parentUid" : "f2511529136ef305174ae39d559f21e8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649332964150,
+          "stop" : 1649332970691,
+          "duration" : 6541
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f2511529136ef305174ae39d559f21e8"
+    }, {
+      "name" : "8936@DESKTOP-T3FFUFN.main(1)",
+      "children" : [ {
+        "name" : "User logs in with a valid account",
+        "uid" : "a0c0b44a03a11be",
+        "parentUid" : "1a118bac9e3561f0615b406e9ae7b841",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649125136303,
+          "stop" : 1649125152586,
+          "duration" : 16283
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User adds product to cart",
+        "uid" : "277a3ed25d33668a",
+        "parentUid" : "1a118bac9e3561f0615b406e9ae7b841",
+        "status" : "broken",
+        "time" : {
+          "start" : 1649125152923,
+          "stop" : 1649125167457,
+          "duration" : 14534
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1a118bac9e3561f0615b406e9ae7b841"
+    }, {
+      "name" : "12692@DESKTOP-T3FFUFN.main(1)",
+      "children" : [ {
+        "name" : "User adds product to cart",
+        "uid" : "27e91f3c31889509",
+        "parentUid" : "c7025fdfe44bf08687dd66e210d64f8e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1648116057167,
+          "stop" : 1648116058029,
+          "duration" : 862
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User logs in with a valid account",
+        "uid" : "80ec1e461690192c",
+        "parentUid" : "c7025fdfe44bf08687dd66e210d64f8e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1648116049478,
+          "stop" : 1648116056751,
+          "duration" : 7273
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c7025fdfe44bf08687dd66e210d64f8e"
+    }, {
+      "name" : "10544@DESKTOP-T3FFUFN.main(1)",
+      "children" : [ {
+        "name" : "User logs in with a valid account",
+        "uid" : "e3ddacca09d78193",
+        "parentUid" : "b7f86a6053338d2c5aca65769f44010c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1648916950378,
+          "stop" : 1648916963880,
+          "duration" : 13502
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User adds product to cart",
+        "uid" : "5cead29a1f85185",
+        "parentUid" : "b7f86a6053338d2c5aca65769f44010c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1648916964371,
+          "stop" : 1648916967727,
+          "duration" : 3356
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b7f86a6053338d2c5aca65769f44010c"
+    }, {
+      "name" : "17504@DESKTOP-T3FFUFN.main(1)",
+      "children" : [ {
+        "name" : "User adds product to cart",
+        "uid" : "e853953d57ba126b",
+        "parentUid" : "94b83a979803ab0436fd24c78f378b85",
+        "status" : "broken",
+        "time" : {
+          "start" : 1649259038714,
+          "stop" : 1649259042298,
+          "duration" : 3584
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User logs in with a valid account",
+        "uid" : "89a6f4803e3e0ecc",
+        "parentUid" : "94b83a979803ab0436fd24c78f378b85",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649259027661,
+          "stop" : 1649259038012,
+          "duration" : 10351
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "94b83a979803ab0436fd24c78f378b85"
+    }, {
+      "name" : "12160@DESKTOP-T3FFUFN.main(1)",
+      "children" : [ {
+        "name" : "User logs in with a valid account",
+        "uid" : "7be5f475c426eae4",
+        "parentUid" : "df50ee6c309d90d3f3a2c6d9bec20060",
+        "status" : "passed",
+        "time" : {
+          "start" : 1648196807632,
+          "stop" : 1648196817893,
+          "duration" : 10261
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User adds product to cart",
+        "uid" : "f04cc9a10c34ded",
+        "parentUid" : "df50ee6c309d90d3f3a2c6d9bec20060",
+        "status" : "passed",
+        "time" : {
+          "start" : 1648196818866,
+          "stop" : 1648196820650,
+          "duration" : 1784
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "df50ee6c309d90d3f3a2c6d9bec20060"
+    }, {
+      "name" : "8664@DESKTOP-T3FFUFN.main(1)",
+      "children" : [ {
+        "name" : "User Melakukan Login dengan valid akun",
+        "uid" : "4228f093d92b4883",
+        "parentUid" : "d42b3b7dd0d04c683720f8d8b404356b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1648115329896,
+          "stop" : 1648115339766,
+          "duration" : 9870
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User adds product to cart",
+        "uid" : "233dd89123343857",
+        "parentUid" : "d42b3b7dd0d04c683720f8d8b404356b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1648115340200,
+          "stop" : 1648115342232,
+          "duration" : 2032
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d42b3b7dd0d04c683720f8d8b404356b"
+    }, {
+      "name" : "6800@DESKTOP-T3FFUFN.main(1)",
+      "children" : [ {
+        "name" : "User adds product to cart",
+        "uid" : "84adcbb411fe503",
+        "parentUid" : "f60d95ba28852fbca8eb96e64cb63a6f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1649041364751,
+          "stop" : 1649041367484,
+          "duration" : 2733
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User logs in with a valid account",
+        "uid" : "c9b4dc6077d71410",
+        "parentUid" : "f60d95ba28852fbca8eb96e64cb63a6f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649041354820,
+          "stop" : 1649041364480,
+          "duration" : 9660
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f60d95ba28852fbca8eb96e64cb63a6f"
+    }, {
+      "name" : "15832@DESKTOP-T3FFUFN.main(1)",
+      "children" : [ {
+        "name" : "User adds product to cart",
+        "uid" : "859474782499b9a8",
+        "parentUid" : "363427f33a69251f278ab2b5e0d0ed88",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649340168785,
+          "stop" : 1649340169801,
+          "duration" : 1016
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User logs in with a valid account",
+        "uid" : "4c94a2632c7da92c",
+        "parentUid" : "363427f33a69251f278ab2b5e0d0ed88",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649340157125,
+          "stop" : 1649340168254,
+          "duration" : 11129
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "363427f33a69251f278ab2b5e0d0ed88"
+    }, {
+      "name" : "12616@DESKTOP-T3FFUFN.main(1)",
+      "children" : [ {
+        "name" : "User logs in with a valid account",
+        "uid" : "d85a32b30762ea54",
+        "parentUid" : "0d5cf2d5f7c05166e11ea330831483e7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649333171081,
+          "stop" : 1649333177823,
+          "duration" : 6742
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User adds product to cart",
+        "uid" : "df742e45acaab688",
+        "parentUid" : "0d5cf2d5f7c05166e11ea330831483e7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649333178098,
+          "stop" : 1649333178713,
+          "duration" : 615
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0d5cf2d5f7c05166e11ea330831483e7"
+    }, {
+      "name" : "15308@DESKTOP-T3FFUFN.main(1)",
+      "children" : [ {
+        "name" : "User adds product to cart",
+        "uid" : "60d6b7fb59ee837d",
+        "parentUid" : "6e96fab2e07794c1dc45fb99834a57e0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649260372724,
+          "stop" : 1649260374053,
+          "duration" : 1329
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User logs in with a valid account",
+        "uid" : "db51b7eb29157074",
+        "parentUid" : "6e96fab2e07794c1dc45fb99834a57e0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649260361689,
+          "stop" : 1649260372260,
+          "duration" : 10571
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6e96fab2e07794c1dc45fb99834a57e0"
+    }, {
+      "name" : "1328@DESKTOP-T3FFUFN.main(1)",
+      "children" : [ {
+        "name" : "User adds product to cart",
+        "uid" : "ee985c8879ad905b",
+        "parentUid" : "a386be8a25294bc7692c749429cde49e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649340764358,
+          "stop" : 1649340765705,
+          "duration" : 1347
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User logs in with a valid account",
+        "uid" : "788e075585f985b3",
+        "parentUid" : "a386be8a25294bc7692c749429cde49e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649340754252,
+          "stop" : 1649340763844,
+          "duration" : 9592
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a386be8a25294bc7692c749429cde49e"
+    }, {
+      "name" : "8688@DESKTOP-T3FFUFN.main(1)",
+      "children" : [ {
+        "name" : "User adds product to cart",
+        "uid" : "4dac7631c968df99",
+        "parentUid" : "b6769bc1e572af8622389f07d05964c0",
+        "status" : "broken",
+        "time" : {
+          "start" : 1648967208784,
+          "stop" : 1648967211751,
+          "duration" : 2967
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User logs in with a valid account",
+        "uid" : "583880af6bd2fb95",
+        "parentUid" : "b6769bc1e572af8622389f07d05964c0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1648967197910,
+          "stop" : 1648967208415,
+          "duration" : 10505
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b6769bc1e572af8622389f07d05964c0"
+    }, {
+      "name" : "21984@DESKTOP-T3FFUFN.main(1)",
+      "children" : [ {
+        "name" : "User adds product to cart",
+        "uid" : "455393382b6bb92d",
+        "parentUid" : "2aef84d4faa1de8268e91d0072b60994",
+        "status" : "passed",
+        "time" : {
+          "start" : 1648025209036,
+          "stop" : 1648025210998,
+          "duration" : 1962
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User Melakukan Login dengan valid akun",
+        "uid" : "7c756234dc6b37c8",
+        "parentUid" : "2aef84d4faa1de8268e91d0072b60994",
+        "status" : "passed",
+        "time" : {
+          "start" : 1648025190221,
+          "stop" : 1648025208439,
+          "duration" : 18218
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2aef84d4faa1de8268e91d0072b60994"
+    }, {
+      "name" : "10416@DESKTOP-T3FFUFN.main(1)",
+      "children" : [ {
+        "name" : "User adds product to cart",
+        "uid" : "6a621b939e1d051d",
+        "parentUid" : "7a81fe9645b150ff006a120bcf20d577",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649341312559,
+          "stop" : 1649341313684,
+          "duration" : 1125
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User logs in with a valid account",
+        "uid" : "c6a2b3e928fe27d9",
+        "parentUid" : "7a81fe9645b150ff006a120bcf20d577",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649341301416,
+          "stop" : 1649341312055,
+          "duration" : 10639
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7a81fe9645b150ff006a120bcf20d577"
+    }, {
+      "name" : "3040@DESKTOP-T3FFUFN.main(1)",
+      "children" : [ {
+        "name" : "User logs in with a valid account",
+        "uid" : "8bb17b21a08032a0",
+        "parentUid" : "a8e38779570ce04447663ecfb4094148",
+        "status" : "broken",
+        "time" : {
+          "start" : 1648831215381,
+          "stop" : 1648831221174,
+          "duration" : 5793
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User adds product to cart",
+        "uid" : "a562a54764c4051b",
+        "parentUid" : "a8e38779570ce04447663ecfb4094148",
+        "status" : "broken",
+        "time" : {
+          "start" : 1648831221589,
+          "stop" : 1648831221605,
+          "duration" : 16
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a8e38779570ce04447663ecfb4094148"
+    }, {
+      "name" : "8588@DESKTOP-T3FFUFN.main(1)",
+      "children" : [ {
+        "name" : "User logs in with a valid account",
+        "uid" : "da5edce7f1c405ca",
+        "parentUid" : "72211f0e6f2817a4c05b5e222bb0276d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649391856758,
+          "stop" : 1649391869535,
+          "duration" : 12777
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 23,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "User adds product to cart",
+        "uid" : "33b5bb109aca8538",
+        "parentUid" : "72211f0e6f2817a4c05b5e222bb0276d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649391870010,
+          "stop" : 1649391871719,
+          "duration" : 1709
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 22,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "72211f0e6f2817a4c05b5e222bb0276d"
+    }, {
+      "name" : "19736@DESKTOP-T3FFUFN.main(1)",
+      "children" : [ {
+        "name" : "User logs in with a valid account",
+        "uid" : "1f23c366f744714c",
+        "parentUid" : "d357577fc7e4774908e1d75e93108abe",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649259278546,
+          "stop" : 1649259291327,
+          "duration" : 12781
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User adds product to cart",
+        "uid" : "776063701150752b",
+        "parentUid" : "d357577fc7e4774908e1d75e93108abe",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649259291956,
+          "stop" : 1649259293255,
+          "duration" : 1299
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d357577fc7e4774908e1d75e93108abe"
+    }, {
+      "name" : "12236@DESKTOP-T3FFUFN.main(1)",
+      "children" : [ {
+        "name" : "User logs in with a valid account",
+        "uid" : "f155dcc0a91598a0",
+        "parentUid" : "ad59dee7ca0195b0842827dc7469eab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649259579245,
+          "stop" : 1649259589740,
+          "duration" : 10495
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User adds product to cart",
+        "uid" : "55e3a7469a51132f",
+        "parentUid" : "ad59dee7ca0195b0842827dc7469eab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649259590155,
+          "stop" : 1649259591323,
+          "duration" : 1168
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ad59dee7ca0195b0842827dc7469eab9"
+    }, {
+      "name" : "2752@DESKTOP-T3FFUFN.main(1)",
+      "children" : [ {
+        "name" : "User logs in with a valid account",
+        "uid" : "b2b070c76bc23f3b",
+        "parentUid" : "dce04515af5e8a96f537304646fa9bc8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649332803810,
+          "stop" : 1649332874853,
+          "duration" : 71043
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User adds product to cart",
+        "uid" : "e9a1eae584b887f7",
+        "parentUid" : "dce04515af5e8a96f537304646fa9bc8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649332875113,
+          "stop" : 1649332875883,
+          "duration" : 770
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "dce04515af5e8a96f537304646fa9bc8"
+    }, {
+      "name" : "20428@DESKTOP-T3FFUFN.main(1)",
+      "children" : [ {
+        "name" : "User logs in with a valid account",
+        "uid" : "99aa09a421a0defe",
+        "parentUid" : "322ae4301090e710463228040e9254af",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649260076881,
+          "stop" : 1649260087525,
+          "duration" : 10644
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User adds product to cart",
+        "uid" : "e608fb35b7ac2dc6",
+        "parentUid" : "322ae4301090e710463228040e9254af",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649260088027,
+          "stop" : 1649260089193,
+          "duration" : 1166
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "322ae4301090e710463228040e9254af"
+    }, {
+      "name" : "16308@DESKTOP-T3FFUFN.main(1)",
+      "children" : [ {
+        "name" : "User Melakukan Login dengan valid akun",
+        "uid" : "8eed1fb3201fa234",
+        "parentUid" : "912811bbde0fc1d448c77e334303a6bd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1648007647818,
+          "stop" : 1648007658396,
+          "duration" : 10578
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "912811bbde0fc1d448c77e334303a6bd"
+    }, {
+      "name" : "18856@DESKTOP-T3FFUFN.main(1)",
+      "children" : [ {
+        "name" : "User adds product to cart",
+        "uid" : "edfbdab590aa2ff6",
+        "parentUid" : "cf721548e0eb2e0ff13ae7e531ab1fcb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1648009659494,
+          "stop" : 1648009660662,
+          "duration" : 1168
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User Melakukan Login dengan valid akun",
+        "uid" : "d473af607a14425e",
+        "parentUid" : "cf721548e0eb2e0ff13ae7e531ab1fcb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1648009650543,
+          "stop" : 1648009658996,
+          "duration" : 8453
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cf721548e0eb2e0ff13ae7e531ab1fcb"
+    } ],
+    "uid" : "5477e3872e3dde465f55a2afb69db9bb"
+  } ]
+}
