@@ -1,4 +1,4 @@
-* # Jenkins integration with Allure Report
+# Jenkins integration with Allure Report
 
 ![](https://i.imgur.com/VYHblnM.png)
 
