@@ -1,6 +1,0 @@
-[ {
-  "buildOrder" : 1,
-  "reportUrl" : "http://localhost:8080/ceko/job/allureCucumber/1/allure",
-  "reportName" : "AllureReport",
-  "data" : { }
-} ]
